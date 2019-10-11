@@ -1,0 +1,15 @@
+{
+  "name": "shaihbot",
+  "version": "1.0.0",
+  "description": "A Telegram bot that will Shaih you!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "git@github.com:nurseiit/shaihbot.git",
+  "author": "Nurseiit Abdimomyn <nurs@unist.ac.kr>",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^3.32.0"
+  }
+}
