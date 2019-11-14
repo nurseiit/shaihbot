@@ -10,6 +10,6 @@
   "author": "Nurseiit Abdimomyn <nurs@unist.ac.kr>",
   "license": "MIT",
   "dependencies": {
-    "telegraf": "^3.32.0"
+    "telegraf": "^3.33.3"
   }
 }
